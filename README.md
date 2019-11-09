@@ -1,5 +1,5 @@
 # recommendation_papers
-\*   means promissing
+  \*   means promissing
 - [x] means validation is valid
 ## [一] 模型结构
 ### CTR/CVR 通用模型
