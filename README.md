@@ -27,7 +27,7 @@
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
 - [ ] [Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising](https://arxiv.org/pdf/1907.10235.pdf)
-- [ ] [Deep Bayesian Multi-Target Learning for Recommender Systems](https://arxiv.org/pdf/1902.09154.pdf) -> [__**note**__](https://git.code.oa.com/wechat_train/paper/blob/master/paper_notes_v3.docx)
+- [ ] [Deep Bayesian Multi-Target Learning for Recommender Systems](https://arxiv.org/pdf/1902.09154.pdf)
 - [ ] [A Causal Perspective to Unbiased Conversion Rate Estimation on Data Missing Not at Random](https://arxiv.org/pdf/1910.09337.pdf)
 
 ### 延迟反馈
