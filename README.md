@@ -1,5 +1,6 @@
 # recommendation_papers
-paper collection for recommendation aspet
+ *   means promissing
+ [x] means validation is valid
 ## [一] 模型结构
 ### CTR/CVR 通用模型
 - [x] [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
