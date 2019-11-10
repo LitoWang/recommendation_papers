@@ -23,6 +23,7 @@
 - [ ] [Quaternion Collaborative Filtering for Recommendation](https://arxiv.org/pdf/1906.02594.pdf)
 - [ ] * [Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](https://arxiv.org/pdf/1910.05552.pdf)
 - [ ] [Exploring Content-based Video Relevance for Video Click-Through Rate Prediction](https://dl.acm.org/citation.cfm?id=3343031.3356053)
+- [ ] [DGFFM: Generalized Field-aware Factorization Machine based on DenseNet](https://ieeexplore.ieee.org/abstract/document/8851933)
 
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
