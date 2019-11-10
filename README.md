@@ -44,7 +44,7 @@
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 
 ### 累积后悔最小化
-- [ ] [https://arxiv.org/pdf/1802.02871.pdf](https://arxiv.org/pdf/1802.02871.pdf)
+- [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
 - [x] [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37013.pdf)
 - [x] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
 - [x] [Follow the Moving Leader in Deep Learning](http://proceedings.mlr.press/v70/zheng17a/zheng17a.pdf)
