@@ -1,7 +1,7 @@
 # recommendation_papers
 - [x] means validation is valid, * means promissing
 ## [一] 模型结构
-### CTR/CVR 通用模型
+### CTR/CVR 通用模型结构
 - [x] [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 - [x] [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
 - [x] [Field-weighted Factorization Machines for Click-Through RatePrediction in Display Advertising](https://arxiv.org/pdf/1806.03514.pdf)
@@ -39,7 +39,7 @@
 - [ ] [Unbiased Learning to Rank with Unbiased Propensity Estimation](https://arxiv.org/pdf/1804.05938.pdf)
 - [ ] * [Dual Learning Algorithm for Delayed Feedback in Display Advertising](https://arxiv.org/pdf/1910.01847.pdf)
 
-## [二] 优化算法
+## [二] 在线随机优化
 ### 累积后悔最小化
 - [x] [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37013.pdf)
 - [x] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
@@ -49,6 +49,10 @@
 - [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
 - [x] [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
 - [x] [Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)
+
+## [三] 贝叶斯推断
+- [ ] []()
+
 
 ## [三] 特征构建
 - [ ] [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
