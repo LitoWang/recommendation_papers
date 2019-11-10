@@ -51,9 +51,10 @@
 - [x] [Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)
 
 ## [三] 贝叶斯推断
-- [ ] []()
+- [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
+- [ ] [PBODL : Parallel Bayesian Online Deep Learning for Click-Through
+Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.pdf)
 
-
-## [三] 特征构建
+## [四] 特征构建
 - [ ] [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
