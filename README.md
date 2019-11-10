@@ -52,7 +52,7 @@
 
 ## [三] 贝叶斯推断
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
-- [ ] [PBODL : Parallel Bayesian Online Deep Learning for Click-Through
+- [x] [PBODL : Parallel Bayesian Online Deep Learning for Click-Through
 Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.pdf)
 
 ## [四] 特征构建
