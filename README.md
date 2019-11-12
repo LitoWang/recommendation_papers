@@ -61,3 +61,8 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 ## [四] 特征构建
 - [ ] [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
+
+## [五] 深度学习（图像 or 文本）
+- [ ] [ONLINE MATRIX FACTORIZATION FOR MARKOVIAN DATA AND APPLICATIONS TO NETWORK DICTIONARY LEARNING](https://arxiv.org/pdf/1911.01931.pdf)
+
+todo...
