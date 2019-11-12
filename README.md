@@ -24,6 +24,8 @@
 - [ ] * [Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction](https://arxiv.org/pdf/1910.05552.pdf)
 - [ ] [Exploring Content-based Video Relevance for Video Click-Through Rate Prediction](https://dl.acm.org/citation.cfm?id=3343031.3356053)
 - [ ] [DGFFM: Generalized Field-aware Factorization Machine based on DenseNet](https://ieeexplore.ieee.org/abstract/document/8851933)
+- [ ] [LMLFM: Longitudinal Multi-Level Factorization Machines](https://arxiv.org/pdf/1911.04062.pdf)
+- [ ] *[Sequence-Aware Factorization Machines for Temporal Predictive Analytics](https://arxiv.org/pdf/1911.02752.pdf)
 
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
