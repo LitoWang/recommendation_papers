@@ -26,6 +26,7 @@
 - [ ] [DGFFM: Generalized Field-aware Factorization Machine based on DenseNet](https://ieeexplore.ieee.org/abstract/document/8851933)
 - [ ] [LMLFM: Longitudinal Multi-Level Factorization Machines](https://arxiv.org/pdf/1911.04062.pdf)
 - [ ] *[Sequence-Aware Factorization Machines for Temporal Predictive Analytics](https://arxiv.org/pdf/1911.02752.pdf)
+- [x] [FLEN: Leveraging Field for Scalable CTR Prediction](https://arxiv.org/abs/1911.04690)
 
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
