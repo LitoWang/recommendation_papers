@@ -43,7 +43,6 @@
 - [ ] * [Dual Learning Algorithm for Delayed Feedback in Display Advertising](https://arxiv.org/pdf/1910.01847.pdf)
 
 ## [二] 优化算法
-- [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 - [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
 - [x] [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37013.pdf)
@@ -52,7 +51,12 @@
 - [ ] [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/pdf/1711.03705.pdf)
 - [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
 - [x] [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
-- [x] [Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)
+- [x] *[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)
+- [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training]
+(https://arxiv.org/pdf/1911.02516.pdf)
+- [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
+- [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
+
 
 ## [三] 贝叶斯推断
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
