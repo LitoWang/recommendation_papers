@@ -69,4 +69,5 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 ## [五] 深度学习（图像 or 文本）
 - [ ] [ONLINE MATRIX FACTORIZATION FOR MARKOVIAN DATA AND APPLICATIONS TO NETWORK DICTIONARY LEARNING](https://arxiv.org/pdf/1911.01931.pdf)
 
-todo...
+## [六] RTB
+- [ ] [Online Second Price Auction with Semi-bandit Feedback Under the Non-Stationary Setting](https://arxiv.org/pdf/1911.05949.pdf)
