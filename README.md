@@ -27,6 +27,9 @@
 - [ ] [LMLFM: Longitudinal Multi-Level Factorization Machines](https://arxiv.org/pdf/1911.04062.pdf)
 - [ ] *[Sequence-Aware Factorization Machines for Temporal Predictive Analytics](https://arxiv.org/pdf/1911.02752.pdf)
 - [x] [FLEN: Leveraging Field for Scalable CTR Prediction](https://arxiv.org/abs/1911.04690)
+- [ ] [Beyond Similarity: Relation Embedding with Dual Attentions for Item-based Recommendation](https://arxiv.org/pdf/1911.04099.pdf)
+
+
 
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
@@ -55,6 +58,7 @@
 - [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
 - [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
 - [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
+
 
 
 ## [三] 贝叶斯推断
