@@ -28,6 +28,7 @@
 - [ ] *[Sequence-Aware Factorization Machines for Temporal Predictive Analytics](https://arxiv.org/pdf/1911.02752.pdf)
 - [x] [FLEN: Leveraging Field for Scalable CTR Prediction](https://arxiv.org/abs/1911.04690)
 - [ ] [Beyond Similarity: Relation Embedding with Dual Attentions for Item-based Recommendation](https://arxiv.org/pdf/1911.04099.pdf)
+- [ ] *[Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/pdf/1911.09821.pdf)
 
 
 
@@ -58,8 +59,6 @@
 - [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
 - [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
 - [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
-- [ ] *[Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/pdf/1911.09821.pdf)
-
 
 
 ## [三] 贝叶斯推断
