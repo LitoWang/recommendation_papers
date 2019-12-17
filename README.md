@@ -29,6 +29,7 @@
 - [x] [FLEN: Leveraging Field for Scalable CTR Prediction](https://arxiv.org/abs/1911.04690)
 - [ ] [Beyond Similarity: Relation Embedding with Dual Attentions for Item-based Recommendation](https://arxiv.org/pdf/1911.04099.pdf)
 - [ ] *[Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/pdf/1911.09821.pdf)
+- [ ] [Learning to Recommend via Meta Parameter Partition](https://arxiv.org/pdf/1912.04108.pdf)
 
 
 
