@@ -30,7 +30,7 @@
 - [ ] [Beyond Similarity: Relation Embedding with Dual Attentions for Item-based Recommendation](https://arxiv.org/pdf/1911.04099.pdf)
 - [ ] *[Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/pdf/1911.09821.pdf)
 - [ ] [Learning to Recommend via Meta Parameter Partition](https://arxiv.org/pdf/1912.04108.pdf)
-
+- [ ] [Online continual learning with no task boundaries](https://128.84.21.199/pdf/1903.08671v1.pdf)
 
 
 ### 多任务
