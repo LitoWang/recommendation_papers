@@ -31,7 +31,7 @@
 - [ ] *[Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/pdf/1911.09821.pdf)
 - [ ] [Learning to Recommend via Meta Parameter Partition](https://arxiv.org/pdf/1912.04108.pdf)
 - [ ] [Online continual learning with no task boundaries](https://128.84.21.199/pdf/1903.08671v1.pdf)
-
+- [ ] [Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks](https://arxiv.org/pdf/1912.12398.pdf)
 
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
