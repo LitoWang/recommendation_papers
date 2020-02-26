@@ -32,7 +32,15 @@
 - [ ] [Learning to Recommend via Meta Parameter Partition](https://arxiv.org/pdf/1912.04108.pdf)
 - [ ] [Online continual learning with no task boundaries](https://128.84.21.199/pdf/1903.08671v1.pdf)
 - [ ] [Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks](https://arxiv.org/pdf/1912.12398.pdf)
+- [ ] [Mixed Dimension Embedding with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/pdf/1909.11810.pdf)
 
+
+### pLTV
+- [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
+- [ ] [Customer Lifetime Value in Video Games Using Deep Learning and Parametric Models](https://arxiv.org/pdf/1811.12799.pdf)
+- [ ] [Automatic Representation for Lifetime Value Recommender Systems](https://arxiv.org/pdf/1702.07125.pdf)
+- [ ] [Customer Lifetime Value Prediction in Non-Contractual Freemium Settings: Chasing High-Value Users Using Deep Neural Networks and SMOTE](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50002/1/paper0115.pdf)
+- [ ] [Modeling and Application of Customer Lifetime Value in Online Retail]()
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
 - [ ] [Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising](https://arxiv.org/pdf/1907.10235.pdf)
@@ -46,6 +54,7 @@
 - [ ] * [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://arxiv.org/pdf/1907.06558.pdf)
 - [ ] [Unbiased Learning to Rank with Unbiased Propensity Estimation](https://arxiv.org/pdf/1804.05938.pdf)
 - [ ] * [Dual Learning Algorithm for Delayed Feedback in Display Advertising](https://arxiv.org/pdf/1910.01847.pdf)
+- [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://arxiv.org/pdf/2002.02068.pdf)
 
 ## [二] 优化算法
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
