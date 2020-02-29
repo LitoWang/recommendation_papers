@@ -33,6 +33,7 @@
 - [ ] [Online continual learning with no task boundaries](https://128.84.21.199/pdf/1903.08671v1.pdf)
 - [ ] [Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks](https://arxiv.org/pdf/1912.12398.pdf)
 - [ ] [Mixed Dimension Embedding with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/pdf/1909.11810.pdf)
+- [ ] [Generalized Embedding Machines for Recommender Systems](https://arxiv.org/pdf/2002.06561.pdf)
 
 
 ### pLTV
