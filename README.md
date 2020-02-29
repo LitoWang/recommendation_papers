@@ -1,4 +1,5 @@
 # recommendation_papers
+
 - [x] means validation is valid, * means promissing
 ## [一] 模型结构
 ### CTR/CVR 通用模型结构
@@ -58,6 +59,7 @@
 - [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://arxiv.org/pdf/2002.02068.pdf)
 
 ## [二] 优化算法
+
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 - [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
 - [x] [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37013.pdf)
@@ -75,11 +77,13 @@
 - [ ] [On the Ineffectiveness of Variance Reduced Optimization for Deep Learning](https://arxiv.org/pdf/1812.04529.pdf)
 
 ## [三] 贝叶斯推断
+
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
 - [x] [PBODL : Parallel Bayesian Online Deep Learning for Click-Through
 Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.pdf)
 
 ## [四] 特征构建
+
 - [ ] [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
@@ -87,4 +91,9 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [ONLINE MATRIX FACTORIZATION FOR MARKOVIAN DATA AND APPLICATIONS TO NETWORK DICTIONARY LEARNING](https://arxiv.org/pdf/1911.01931.pdf)
 
 ## [六] RTB
+
 - [ ] [Online Second Price Auction with Semi-bandit Feedback Under the Non-Stationary Setting](https://arxiv.org/pdf/1911.05949.pdf)
+
+## [七] AI所有领域最优论文+代码查找
+
+- [x] [Browse State-of-the-Art](https://paperswithcode.com/sota)
