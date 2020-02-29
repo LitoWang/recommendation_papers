@@ -72,6 +72,7 @@
 - [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
 - [ ] *[Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
 - [ ] [Second Order Optimization Made Practical](https://arxiv.org/pdf/2002.09018.pdf)
+- [ ] [On the Ineffectiveness of Variance Reduced Optimization for Deep Learning](https://arxiv.org/pdf/1812.04529.pdf)
 
 ## [三] 贝叶斯推断
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
