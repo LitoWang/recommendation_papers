@@ -17,6 +17,7 @@
 - [ ] [Product-based Neural Networks for User Response Prediction over Multi-field Categorical Data](https://arxiv.org/pdf/1807.00311.pdf)
 - [ ] [Product-based Neural Networks for User Response Prediction](https://arxiv.org/pdf/1611.00144.pdf)
 - [ ] [DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks](http://delivery.acm.org/10.1145/3340000/3330858/p384-ke.pdf?ip=203.205.141.44&id=3330858&acc=OPENTOC&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1570593404_7bf8663e47961e69d446f0692f12001b)
+- [ ] [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/pdf/1711.03705.pdf)
 - [ ] [InteractionNN: A Neural Network for Learning Hidden Features in Sparse Prediction](https://www.ijcai.org/proceedings/2019/0602.pdf)
 - [ ] [High-order Factorization Machine Based on Cross Weights Network for Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8840886)
 - [ ] [Adaptive Factorization Network: Learning Adaptive-Order Feature Interactions](https://arxiv.org/pdf/1909.03276.pdf)
@@ -80,7 +81,6 @@
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 - [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
 - [x] [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37013.pdf)
-- [ ] [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/pdf/1711.03705.pdf)
 - [x] [Follow the Moving Leader in Deep Learning](http://proceedings.mlr.press/v70/zheng17a/zheng17a.pdf)
 - [ ] [Online Meta-Learning](https://arxiv.org/pdf/1902.08438.pdf)
 
