@@ -62,7 +62,7 @@
 ### 综述
 - [ ] [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 - [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
-
+- [ ] [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf) (book)
 ### 一阶优化
 - [ ] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - [ ] [RmsProp: Overview	of	mini-batch	gradient	descent](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
