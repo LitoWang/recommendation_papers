@@ -59,9 +59,14 @@
 
 ## [二] 优化算法
 ### 综述
+- [ ] [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
+- [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
 
 ### 一阶优化
+- [ ] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
+- [ ] [Overview	of	mini-batch	gradient	descent](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - [ ] [ADADELTA: AN ADAPTIVE LEARNING RATE METHOD](https://arxiv.org/pdf/1212.5701.pdf)
+- [ ] [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
 
 ### 二阶优化
 - [ ] [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/pdf/1503.05671.pdf)
@@ -90,8 +95,8 @@
 ### 其他
 - [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
 - [ ] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
-
-
+- [ ] [Natasha: Faster Non-Convex Stochastic Optimization Via Strongly Non-Convex Parameter](https://arxiv.org/pdf/1702.00763.pdf)
+- [ ] [Natasha 2: Faster Non-Convex Optimization Than SGD](https://arxiv.org/pdf/1708.08694.pdf)
 
 ## [三] 贝叶斯推断（todo）
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
@@ -107,5 +112,7 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 
 ## [六] 文本（todo）
 
-## [六] RTB（todo）
+## [七] RTB（todo）
 - [ ] [Online Second Price Auction with Semi-bandit Feedback Under the Non-Stationary Setting](https://arxiv.org/pdf/1911.05949.pdf)
+## [八] 其他机器学习
+- [ ] [Optimization Problems for Machine Learning: A Survey](https://arxiv.org/pdf/1901.05331.pdf)
