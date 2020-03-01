@@ -94,12 +94,16 @@
 - [x] *[Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
 - [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
 - [ ] [Asynchronous Stochastic Gradient Descent with Delay Compensation](https://arxiv.org/pdf/1609.08326.pdf)
+- [ ] [Follow the Leader: Theory and Applications](https://www.cs.ubc.ca/labs/lci/mlrg/slides/2019_summer_3_follow_the_leader.pdf) (ppt)
 
 ### 其他
 - [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
 - [ ] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - [ ] [Natasha: Faster Non-Convex Stochastic Optimization Via Strongly Non-Convex Parameter](https://arxiv.org/pdf/1702.00763.pdf)
 - [ ] [Natasha 2: Faster Non-Convex Optimization Than SGD](https://arxiv.org/pdf/1708.08694.pdf)
+- [ ] [Training Neural Networks for and by Interpolation](https://arxiv.org/pdf/1906.05661.pdf) (线性差值)
+- [ ] [Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)
+- [ ] [Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates](http://papers.nips.cc/paper/8630-painless-stochastic-gradient-interpolation-line-search-and-convergence-rates.pdf)
 
 ## [三] 贝叶斯推断（todo）
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
