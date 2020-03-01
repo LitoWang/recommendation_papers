@@ -70,7 +70,7 @@
 
 ### 二阶优化
 - [ ] [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/pdf/1503.05671.pdf)
-- [ ] [Shampoo: Preconditioned Stochastic Tensor Optimization]（http://proceedings.mlr.press/v80/gupta18a/gupta18a.pdf）
+- [ ] [Shampoo: Preconditioned Stochastic Tensor Optimization](http://proceedings.mlr.press/v80/gupta18a/gupta18a.pdf)
 - [ ] [Second Order Optimization Made Practical](https://arxiv.org/pdf/2002.09018.pdf)
 
 ### 累积后悔最小化
@@ -108,7 +108,6 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
 ## [五] 图像（todo）
-- [ ] [ONLINE MATRIX FACTORIZATION FOR MARKOVIAN DATA AND APPLICATIONS TO NETWORK DICTIONARY LEARNING](https://arxiv.org/pdf/1911.01931.pdf)
 
 ## [六] 文本（todo）
 
