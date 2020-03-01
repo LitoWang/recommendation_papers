@@ -35,13 +35,13 @@
 - [ ] [Mixed Dimension Embedding with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/pdf/1909.11810.pdf)
 - [ ] [Generalized Embedding Machines for Recommender Systems](https://arxiv.org/pdf/2002.06561.pdf)
 
-
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
 - [ ] [Customer Lifetime Value in Video Games Using Deep Learning and Parametric Models](https://arxiv.org/pdf/1811.12799.pdf)
 - [ ] [Automatic Representation for Lifetime Value Recommender Systems](https://arxiv.org/pdf/1702.07125.pdf)
 - [ ] [Customer Lifetime Value Prediction in Non-Contractual Freemium Settings: Chasing High-Value Users Using Deep Neural Networks and SMOTE](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50002/1/paper0115.pdf)
 - [ ] [Modeling and Application of Customer Lifetime Value in Online Retail]()
+
 ### 多任务
 - [ ] [Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate](https://arxiv.org/pdf/1804.07931.pdf)
 - [ ] [Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising](https://arxiv.org/pdf/1907.10235.pdf)
@@ -58,33 +58,54 @@
 - [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://arxiv.org/pdf/2002.02068.pdf)
 
 ## [二] 优化算法
+### 综述
+
+### 一阶优化
+- [ ] [ADADELTA: AN ADAPTIVE LEARNING RATE METHOD](https://arxiv.org/pdf/1212.5701.pdf)
+
+### 二阶优化
+- [ ] [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/pdf/1503.05671.pdf)
+- [ ] [Shampoo: Preconditioned Stochastic Tensor Optimization]（http://proceedings.mlr.press/v80/gupta18a/gupta18a.pdf）
+- [ ] [Second Order Optimization Made Practical](https://arxiv.org/pdf/2002.09018.pdf)
+
+### 累积后悔最小化
+- [ ] [Dual Averaging Methods for Regularized Stochastic Learning and Online Optimization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/xiao10JMLR.pdf)
+- [x] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
+- [ ] *[Stochastic Gradient Descent Training for L1-regularized Log-linear Models with Cumulative Penalty](https://www.aclweb.org/anthology/P09-1054.pdf)
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 - [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
 - [x] [Follow-the-Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37013.pdf)
-- [x] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
 - [x] [Follow the Moving Leader in Deep Learning](http://proceedings.mlr.press/v70/zheng17a/zheng17a.pdf)
 - [ ] [Online Deep Learning: Learning Deep Neural Networks on the Fly](https://arxiv.org/pdf/1711.03705.pdf)
-- [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
-- [x] [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
+
+### 方差约减
 - [x] *[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)
 - [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
-- [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
-- [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
-- [ ] *[Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
-- [ ] [Second Order Optimization Made Practical](https://arxiv.org/pdf/2002.09018.pdf)
 - [ ] [On the Ineffectiveness of Variance Reduced Optimization for Deep Learning](https://arxiv.org/pdf/1812.04529.pdf)
+- [x] [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
+### 梯度延迟
+- [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
+- [x] *[Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
+- [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
+### 其他
+- [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
+- [ ] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 
-## [三] 贝叶斯推断
+
+
+## [三] 贝叶斯推断（todo）
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
 - [x] [PBODL : Parallel Bayesian Online Deep Learning for Click-Through
 Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.pdf)
 
-## [四] 特征构建
+## [四] 特征构建（todo）
 - [ ] [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
-## [五] 深度学习（图像 or 文本）
+## [五] 图像（todo）
 - [ ] [ONLINE MATRIX FACTORIZATION FOR MARKOVIAN DATA AND APPLICATIONS TO NETWORK DICTIONARY LEARNING](https://arxiv.org/pdf/1911.01931.pdf)
 
-## [六] RTB
+## [六] 文本（todo）
+
+## [六] RTB（todo）
 - [ ] [Online Second Price Auction with Semi-bandit Feedback Under the Non-Stationary Setting](https://arxiv.org/pdf/1911.05949.pdf)
