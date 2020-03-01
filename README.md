@@ -101,9 +101,11 @@
 - [ ] [Natasha: Faster Non-Convex Stochastic Optimization Via Strongly Non-Convex Parameter](https://arxiv.org/pdf/1702.00763.pdf)
 - [ ] [Natasha 2: Faster Non-Convex Optimization Than SGD](https://arxiv.org/pdf/1708.08694.pdf)
 - [ ] [Training Neural Networks for and by Interpolation](https://arxiv.org/pdf/1906.05661.pdf) (线性差值)
-- [ ] [Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)
+- [ ] *[Stochastic Polyak Step-size for SGD: An Adaptive Learning Rate for Fast Convergence](https://arxiv.org/pdf/2002.10542.pdf)
 - [ ] [Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates](http://papers.nips.cc/paper/8630-painless-stochastic-gradient-interpolation-line-search-and-convergence-rates.pdf)
 - [ ] [Follow the Leader: Theory and Applications](https://www.cs.ubc.ca/labs/lci/mlrg/slides/2019_summer_3_follow_the_leader.pdf) (ppt)
+- [ ] [Stochastic Gradient Descent as Approximate Bayesian Inference](http://www.jmlr.org/papers/volume18/17-214/17-214.pdf)
+- [ ] [Gradient descent with momentum — to accelerate or to super-accelerate?](https://arxiv.org/pdf/2001.06472.pdf)
 
 
 ## [三] 贝叶斯推断（todo）
