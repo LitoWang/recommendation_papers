@@ -35,6 +35,7 @@
 - [ ] [Solving Cold Start Problem in Recommendation with Attribute Graph Neural Networks](https://arxiv.org/pdf/1912.12398.pdf)
 - [ ] [Mixed Dimension Embedding with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/pdf/1909.11810.pdf)
 - [ ] [Generalized Embedding Machines for Recommender Systems](https://arxiv.org/pdf/2002.06561.pdf)
+- [ ] [A Sparse Deep Factorization Machine for Efficient CTR prediction](https://arxiv.org/pdf/2002.06987.pdf)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
@@ -63,6 +64,7 @@
 - [ ] [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 - [ ] [A Survey of Optimization Methods from a Machine Learning Perspective](https://arxiv.org/pdf/1906.06821.pdf)
 - [ ] [Introduction to Online Convex Optimization](https://arxiv.org/pdf/1909.05207.pdf) (book)
+
 ### 一阶优化
 - [ ] [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - [ ] [RmsProp: Overview	of	mini-batch	gradient	descent](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
@@ -85,9 +87,10 @@
 - [ ] [Online Meta-Learning](https://arxiv.org/pdf/1902.08438.pdf)
 
 ### 方差约减
-- [x] *[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)\
+- [x] *[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/pdf/1907.08610.pdf)
 - [ ] [On the Ineffectiveness of Variance Reduced Optimization for Deep Learning](https://arxiv.org/pdf/1812.04529.pdf)
 - [x] [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
+
 ### 梯度延迟
 - [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
 - [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
@@ -116,6 +119,7 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 ## [四] 特征构建（todo）
 - [ ] [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://arxiv.org/pdf/1803.02349.pdf)
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
+
 
 ## [五] 图像（todo）
 
