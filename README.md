@@ -79,7 +79,6 @@
 ### 累积后悔最小化
 - [ ] [Dual Averaging Methods for Regularized Stochastic Learning and Online Optimization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/xiao10JMLR.pdf)
 - [x] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
-- [ ] [Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](https://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
 - [ ] *[Stochastic Gradient Descent Training for L1-regularized Log-linear Models with Cumulative Penalty](https://www.aclweb.org/anthology/P09-1054.pdf)
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 - [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
@@ -93,6 +92,7 @@
 - [x] [Accelerating Stochastic Gradient Descent using Predictive Variance Reduction](https://papers.nips.cc/paper/4937-accelerating-stochastic-gradient-descent-using-predictive-variance-reduction.pdf)
 
 ### 梯度延迟
+- [ ] [Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](https://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
 - [ ] *[Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD](https://arxiv.org/pdf/1803.01113.pdf)
 - [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
 - [x] *[Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
@@ -113,6 +113,8 @@
 
 
 ## [三] 贝叶斯推断（todo）
+- [ ] [Matchbox: Large Scale Online Bayesian Recommendations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.567.985&rep=rep1&type=pdf)
+- [ ] [Web-Scale Bayesian Click-Through Rate Prediction for Sponsored Search Advertising in Microsoft’s Bing Search Engine](https://www.microsoft.com/en-us/research/wp-content/uploads/2010/06/AdPredictor-ICML-2010-final.pdf)
 - [ ] [Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks](https://arxiv.org/pdf/1502.05336v2.pdf)
 - [x] [PBODL : Parallel Bayesian Online Deep Learning for Click-Through
 Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.pdf)
