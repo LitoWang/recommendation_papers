@@ -79,6 +79,7 @@
 ### 累积后悔最小化
 - [ ] [Dual Averaging Methods for Regularized Stochastic Learning and Online Optimization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/xiao10JMLR.pdf)
 - [x] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
+- [ ] [Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning](https://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf)
 - [ ] *[Stochastic Gradient Descent Training for L1-regularized Log-linear Models with Cumulative Penalty](https://www.aclweb.org/anthology/P09-1054.pdf)
 - [ ] [Deep online learning via meta-learning: Continual adaptation for model-based RL](https://openreview.net/pdf?id=HyxAfnA5tm)
 - [ ] [Online Learning: A Comprehensive Survey](https://arxiv.org/pdf/1802.02871.pdf)
