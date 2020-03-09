@@ -36,6 +36,7 @@
 - [ ] [Mixed Dimension Embedding with Application to Memory-Efficient Recommendation Systems](https://arxiv.org/pdf/1909.11810.pdf)
 - [ ] [Generalized Embedding Machines for Recommender Systems](https://arxiv.org/pdf/2002.06561.pdf)
 - [ ] [A Sparse Deep Factorization Machine for Efficient CTR prediction](https://arxiv.org/pdf/2002.06987.pdf)
+- [ ] [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations](https://arxiv.org/pdf/2002.11252.pdf)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
