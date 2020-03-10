@@ -124,7 +124,20 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
 
-## [五] 图像（todo）
+## [五] 图像
+- [ ] [CNN features off-the-shelf: an astounding baseline for recognition](http://openaccess.thecvf.com/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
+- [ ] [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [ ] [Particular object retrieval with integral max-pooling of CNN activations](https://arxiv.org/pdf/1511.05879.pdf)
+- [ ] [Aggregating Deep Convolutional Features for Image Retrieval](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Babenko_Aggregating_Local_Deep_ICCV_2015_paper.pdf) (SPoC)
+- [ ] [Deep Supervised Hashing for Fast Image Retrieval](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf) (DSH)
+- [ ] [Dimensionality reduction by learning an invariant mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf) (Contrastive Loss)
+- [ ] [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) (Triplet Loss)
+- [ ] [Deep metric learning via lifted structured feature embedding](https://arxiv.org/pdf/1511.06452.pdf) (Lifted Structure Loss)
+- [ ] [Learning deep embeddingswith histogram loss](https://arxiv.org/pdf/1611.00822.pdf) (Histogram Loss)
+- [ ] [Largescale image retrieval with attentive deep local features](https://arxiv.org/pdf/1612.06321.pdf) (Spatial-wise Attention)
+- [ ] [Squeeze-and-excitation networks](https://arxiv.org/pdf/1709.01507.pdf) (SENET)
+- [ ] [SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf) (SA+CA Attention)
+
 
 ## [六] 文本（todo）
 
