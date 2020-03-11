@@ -127,6 +127,7 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 ## [五] 图像
 - [ ] [CNN features off-the-shelf: an astounding baseline for recognition](http://openaccess.thecvf.com/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf)
 - [ ] [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- [ ] [Deeply learned face representations are sparse, selective, and robust](https://arxiv.org/pdf/1412.1265.pdf) (PCA降维)
 - [ ] [Particular object retrieval with integral max-pooling of CNN activations](https://arxiv.org/pdf/1511.05879.pdf)
 - [ ] [Aggregating Deep Convolutional Features for Image Retrieval](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Babenko_Aggregating_Local_Deep_ICCV_2015_paper.pdf) (SPoC)
 - [ ] [Deep Supervised Hashing for Fast Image Retrieval](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf) (DSH)
