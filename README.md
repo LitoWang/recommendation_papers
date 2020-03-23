@@ -110,6 +110,7 @@
 - [ ] [Follow the Leader: Theory and Applications](https://www.cs.ubc.ca/labs/lci/mlrg/slides/2019_summer_3_follow_the_leader.pdf) (ppt)
 - [ ] [Stochastic Gradient Descent as Approximate Bayesian Inference](http://www.jmlr.org/papers/volume18/17-214/17-214.pdf)
 - [ ] [Gradient descent with momentum — to accelerate or to super-accelerate?](https://arxiv.org/pdf/2001.06472.pdf)
+- [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf) (理解NN LOSS)
 
 
 ## [三] 贝叶斯推断（todo）
