@@ -37,6 +37,7 @@
 - [ ] [Generalized Embedding Machines for Recommender Systems](https://arxiv.org/pdf/2002.06561.pdf)
 - [ ] [A Sparse Deep Factorization Machine for Efficient CTR prediction](https://arxiv.org/pdf/2002.06987.pdf)
 - [ ] [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations](https://arxiv.org/pdf/2002.11252.pdf)
+- [ ] [ReZero is All You Need: Fast Convergence at Large Depth](https://arxiv.org/abs/2003.04887v1)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
