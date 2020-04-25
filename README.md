@@ -39,6 +39,7 @@
 - [ ] [AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations](https://arxiv.org/pdf/2002.11252.pdf)
 - [ ] [ReZero is All You Need: Fast Convergence at Large Depth](https://arxiv.org/abs/2003.04887v1)
 - [ ] [Dual-attentional Factorization-Machines based Neural Network for User Response Prediction](https://dl.acm.org/doi/pdf/10.1145/3366424.3382680)
+- [ ] [Deep Match to Rank Model for Personalized Click-Through Rate Prediction](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LyuZ.5099.pdf)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
