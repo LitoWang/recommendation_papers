@@ -1,3 +1,4 @@
+personal blog: http://litowang.top/
 # recommendation_papers
 - [x] means validation is valid, * means promissing
 ## [一] 模型结构
