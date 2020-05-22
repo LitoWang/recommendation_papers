@@ -41,6 +41,9 @@ personal blog: http://litowang.top/
 - [ ] [ReZero is All You Need: Fast Convergence at Large Depth](https://arxiv.org/abs/2003.04887v1)
 - [ ] [Dual-attentional Factorization-Machines based Neural Network for User Response Prediction](https://dl.acm.org/doi/pdf/10.1145/3366424.3382680)
 - [ ] [Deep Match to Rank Model for Personalized Click-Through Rate Prediction](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LyuZ.5099.pdf)
+- [ ] [Sequential Advertising Agent with Interpretable User Hidden Intents](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1966.pdf)
+- [ ] [A Dual Input-aware Factorization Machine for CTR Prediction](http://boyuan.global-optimization.com/Mypaper/IJCAI-2020c.pdf)
+- [ ] [Deep Collaborative Filtering Based on Outer Product](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086604)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
