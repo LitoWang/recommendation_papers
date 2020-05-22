@@ -44,6 +44,9 @@ personal blog: http://litowang.top/
 - [ ] [Sequential Advertising Agent with Interpretable User Hidden Intents](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1966.pdf)
 - [ ] [A Dual Input-aware Factorization Machine for CTR Prediction](http://boyuan.global-optimization.com/Mypaper/IJCAI-2020c.pdf)
 - [ ] [Deep Collaborative Filtering Based on Outer Product](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086604)
+- [ ] [MsFcNET: Multi-scale Feature-Crossing Attention Network for Multi-field Sparse Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206309/pdf/978-3-030-47426-3_Chapter_12.pdf)
+
+
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
