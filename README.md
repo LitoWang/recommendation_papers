@@ -47,6 +47,11 @@ personal blog: http://litowang.top/
 - [ ] [MsFcNET: Multi-scale Feature-Crossing Attention Network for Multi-field Sparse Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206309/pdf/978-3-030-47426-3_Chapter_12.pdf)
 - [ ] [EdgeRec: Recommender System on Edge in Mobile Taobao](https://arxiv.org/pdf/2005.08416.pdf)
 - [ ] [Controllable Multi-Interest Framework for Recommendation](https://arxiv.org/pdf/2005.09347.pdf)
+- [ ] [MMCTR: A MULTI-TASK MODEL FOR SHORT VIDEO CTR PREDICTION WITH MULTI-MODAL VIDEO CONTENT FEATURES](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794920)
+- [ ] [TRUNCATED SVD-BASED FEATURE ENGINEERING FOR SHORT VIDEO UNDERSTANDING AND RECOMMENDATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794898)
+
+
+
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
