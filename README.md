@@ -49,7 +49,7 @@ personal blog: http://litowang.top/
 - [ ] [Controllable Multi-Interest Framework for Recommendation](https://arxiv.org/pdf/2005.09347.pdf)
 - [ ] [MMCTR: A MULTI-TASK MODEL FOR SHORT VIDEO CTR PREDICTION WITH MULTI-MODAL VIDEO CONTENT FEATURES](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794920)
 - [ ] [TRUNCATED SVD-BASED FEATURE ENGINEERING FOR SHORT VIDEO UNDERSTANDING AND RECOMMENDATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794898)
-
+- [ ] [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
 
 
 
