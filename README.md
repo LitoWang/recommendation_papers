@@ -44,7 +44,6 @@ personal blog: http://litowang.top/
 - [ ] [A Dual Input-aware Factorization Machine for CTR Prediction](http://boyuan.global-optimization.com/Mypaper/IJCAI-2020c.pdf)
 - [ ] [Deep Collaborative Filtering Based on Outer Product](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086604)
 - [ ] [MsFcNET: Multi-scale Feature-Crossing Attention Network for Multi-field Sparse Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206309/pdf/978-3-030-47426-3_Chapter_12.pdf)
-- [ ] [EdgeRec: Recommender System on Edge in Mobile Taobao](https://arxiv.org/pdf/2005.08416.pdf)
 - [ ] [Controllable Multi-Interest Framework for Recommendation](https://arxiv.org/pdf/2005.09347.pdf)
 - [ ] [MMCTR: A MULTI-TASK MODEL FOR SHORT VIDEO CTR PREDICTION WITH MULTI-MODAL VIDEO CONTENT FEATURES](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794920)
 - [ ] [TRUNCATED SVD-BASED FEATURE ENGINEERING FOR SHORT VIDEO UNDERSTANDING AND RECOMMENDATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794898)
@@ -166,3 +165,8 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 
 ## [八] 其他机器学习
 - [ ] [Optimization Problems for Machine Learning: A Survey](https://arxiv.org/pdf/1901.05331.pdf)
+
+## [] 联邦学习
+- [ ] [From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594.pdf)
+- [ ] [EdgeRec: Recommender System on Edge in Mobile Taobao](https://arxiv.org/pdf/2005.08416.pdf)
+
