@@ -7,7 +7,6 @@ personal blog: http://litowang.top/
 - [x] [Field-aware Factorization Machines for CTR Prediction](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
 - [x] [Field-weighted Factorization Machines for Click-Through RatePrediction in Display Advertising](https://arxiv.org/pdf/1806.03514.pdf)
 - [ ] [AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/pdf/1810.11921.pdf)
-- [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
 - [ ] [FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction](https://www.groundai.com/project/fibinet-combining-feature-importance-and-bilinear-feature-interaction-for-click-through-rate-prediction/1)
 - [ ] [CFM: Convolutional Factorization Machines for Context-Aware Recommendation](http://staff.ustc.edu.cn/~hexn/papers/ijcai19-cfm.pdf)
 - [x] [Field-aware Neural Factorization Machine for Click-Through Rate Prediction](https://arxiv.org/pdf/1902.09096.pdf?forcedefault=true)
@@ -51,6 +50,10 @@ personal blog: http://litowang.top/
 - [ ] [TRUNCATED SVD-BASED FEATURE ENGINEERING FOR SHORT VIDEO UNDERSTANDING AND RECOMMENDATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794898)
 - [ ] [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
 
+
+### 伸缩Embedding
+- [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
+- [ ] [Neural Input Search for Large Scale Recommendation Models](https://arxiv.org/pdf/1907.04471.pdf)
 
 
 ### pLTV
