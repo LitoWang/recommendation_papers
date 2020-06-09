@@ -51,7 +51,7 @@ personal blog: http://litowang.top/
 - [ ] [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
 
 
-### 伸缩Embedding
+### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
 - [ ] [Neural Input Search for Large Scale Recommendation Models](https://arxiv.org/pdf/1907.04471.pdf)
 
