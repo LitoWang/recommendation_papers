@@ -170,3 +170,7 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594.pdf)
 - [ ] [EdgeRec: Recommender System on Edge in Mobile Taobao](https://arxiv.org/pdf/2005.08416.pdf)
 
+## [] 内容推荐
+- [ ] [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
+- [ ] [Latent Cross: Making Use of Context in Recurrent Recommender Systems](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46488.pdf)
+
