@@ -48,12 +48,14 @@ personal blog: http://litowang.top/
 - [ ] [MMCTR: A MULTI-TASK MODEL FOR SHORT VIDEO CTR PREDICTION WITH MULTI-MODAL VIDEO CONTENT FEATURES](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794920)
 - [ ] [TRUNCATED SVD-BASED FEATURE ENGINEERING FOR SHORT VIDEO UNDERSTANDING AND RECOMMENDATION](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794898)
 - [ ] [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
-
+- [ ] [Model Ensemble for Click Prediction in Bing Search Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/main-1.pdf)
+- [ ] [Field-aware Probabilistic Embedding Neural Network for CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3240323.3240396)
+- [ ] [Model Ensemble for Click Prediction in Bing Search Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/main-1.pdf)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
 - [ ] [Neural Input Search for Large Scale Recommendation Models](https://arxiv.org/pdf/1907.04471.pdf)
-
+- [ ] [A Meta-Learning Perspective on Cold-Start Recommendations for Items](https://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items.pdf)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
