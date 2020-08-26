@@ -63,6 +63,8 @@ personal blog: http://litowang.top/
 - [ ] [Neural Input Search for Large Scale Recommendation Models](https://arxiv.org/pdf/1907.04471.pdf)
 - [ ] [A Meta-Learning Perspective on Cold-Start Recommendations for Items](https://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items.pdf)
 - [ ] [Automated Embedding Size Search in Deep Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3397271.3401436?casa_token=1ttZKqYUqLoAAAAA:O4R0qB4aUVc7286gF8LmLVZlSYrYGWm4yoMqWMDhWjJ2cVRVKI5Lz1L2CQc5rcHVi5vDY3zLqkB_vSk)
+- [ ] [GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401425?casa_token=XIzeBAFeEr0AAAAA:wnrsLjZsiyiy8jftmMxkxd1A7l2SBzDm6SOMGFO8XAGCHi4b9GoQQZ4bsnTupA_kqIDvFbxM7jg0IZg)
+
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
@@ -124,6 +126,7 @@ personal blog: http://litowang.top/
 - [ ] [DC-S3GD: Delay-Compensated Stale-Synchronous SGD for Large-Scale Decentralized Neural Network Training](https://arxiv.org/pdf/1911.02516.pdf)
 - [ ] [The Error-Feedback Framework: Better Rates for SGD with Delayed Gradients and Compressed Communication](https://arxiv.org/pdf/1909.05350.pdf)
 - [ ] [Asynchronous Stochastic Gradient Descent with Delay Compensation](https://arxiv.org/pdf/1609.08326.pdf)
+- [ ] [An Attention-based Model for Conversion Rate Prediction with Delayed Feedback via Post-click Calibration](https://www.ijcai.org/Proceedings/2020/0487.pdf)
 
 ### 其他
 - [ ] [A Stochastic Gradient Method with an Exponential Convergence Rate for Finite Training Sets](https://hal.inria.fr/file/index/docid/799158/filename/sag_arxiv.pdf)
