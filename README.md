@@ -50,7 +50,6 @@ personal blog: http://litowang.top/
 - [ ] [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
 - [ ] [Model Ensemble for Click Prediction in Bing Search Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/main-1.pdf)
 - [ ] [Field-aware Probabilistic Embedding Neural Network for CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3240323.3240396)
-- [ ] [Model Ensemble for Click Prediction in Bing Search Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/main-1.pdf)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
