@@ -52,6 +52,10 @@ personal blog: http://litowang.top/
 - [ ] [Field-aware Probabilistic Embedding Neural Network for CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3240323.3240396)
 - [ ] [Dual-attentional Factorization-Machines based Neural Network for User Response Prediction](https://dl.acm.org/doi/pdf/10.1145/3366424.3382680?casa_token=ejQgYZSwl5IAAAAA:8XJq3mAaZ9lOAudSnsxPwmVNLE-C6gEhGJwhagcIBh96ASkhhpLdOMCjdkvtX-YcX8mxSt-_QD1JEBA)
 - [ ] [FedCTR: Federated Native Ad CTR Prediction with Multi-Platform User Behavior Data](https://arxiv.org/pdf/2007.12135.pdf)
+- [ ] [AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://arxiv.org/pdf/2003.11235.pdf)
+- [ ] [DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving](https://arxiv.org/pdf/2002.06987.pdf)
+- [ ] [MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction](https://arxiv.org/pdf/2008.02974.pdf)
+- [ ] [Memory-efficient Embedding for Recommendations](https://arxiv.org/pdf/2006.14827.pdf)
 
 
 ### 小样本/多尺度Embedding
