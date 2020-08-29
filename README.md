@@ -99,6 +99,7 @@ personal blog: http://litowang.top/
 - [ ] [RmsProp: Overview	of	mini-batch	gradient	descent](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - [ ] [ADADELTA: AN ADAPTIVE LEARNING RATE METHOD](https://arxiv.org/pdf/1212.5701.pdf)
 - [ ] [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
+- [ ] [DECOUPLED WEIGHT DECAY REGULARIZATION](https://arxiv.org/pdf/1711.05101.pdf])
 
 ### 二阶优化
 - [ ] [Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/pdf/1503.05671.pdf)
