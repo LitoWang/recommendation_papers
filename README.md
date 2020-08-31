@@ -56,7 +56,7 @@ personal blog: http://litowang.top/
 - [ ] [DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving](https://arxiv.org/pdf/2002.06987.pdf)
 - [ ] [MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction](https://arxiv.org/pdf/2008.02974.pdf)
 - [ ] [Memory-efficient Embedding for Recommendations](https://arxiv.org/pdf/2006.14827.pdf)
-
+- [ ] [DNN2LR: Interpretation-inspired Feature Crossing for Real-world Tabular Data](https://arxiv.org/pdf/2008.09775.pdf)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
@@ -141,6 +141,7 @@ personal blog: http://litowang.top/
 - [ ] [Stochastic Gradient Descent as Approximate Bayesian Inference](http://www.jmlr.org/papers/volume18/17-214/17-214.pdf)
 - [ ] [Gradient descent with momentum — to accelerate or to super-accelerate?](https://arxiv.org/pdf/2001.06472.pdf)
 - [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf) (理解NN LOSS)
+- [ ] [Adaptive Serverless Learning](https://arxiv.org/pdf/2008.10422.pdf) (去中心化sgd训练，也许有一些思路)
 
 
 ## [三] 贝叶斯推断（todo）
