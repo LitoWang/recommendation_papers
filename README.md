@@ -57,6 +57,9 @@ personal blog: http://litowang.top/
 - [ ] [MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction](https://arxiv.org/pdf/2008.02974.pdf)
 - [ ] [Memory-efficient Embedding for Recommendations](https://arxiv.org/pdf/2006.14827.pdf)
 - [ ] [DNN2LR: Interpretation-inspired Feature Crossing for Real-world Tabular Data](https://arxiv.org/pdf/2008.09775.pdf)
+- [ ] [TFNet: Multi-Semantic Feature Interaction for CTR Prediction](https://arxiv.org/pdf/2006.15939.pdf)
+
+
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
@@ -87,6 +90,7 @@ personal blog: http://litowang.top/
 - [ ] [Unbiased Learning to Rank with Unbiased Propensity Estimation](https://arxiv.org/pdf/1804.05938.pdf)
 - [ ] * [Dual Learning Algorithm for Delayed Feedback in Display Advertising](https://arxiv.org/pdf/1910.01847.pdf)
 - [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://arxiv.org/pdf/2002.02068.pdf)
+- [ ] [An Attention-based Model for CVR with Delayed Feedback via Post-Click Calibration]()
 
 ## [二] 优化算法
 ### 综述
@@ -179,6 +183,7 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 
 ## [八] 其他机器学习
 - [ ] [Optimization Problems for Machine Learning: A Survey](https://arxiv.org/pdf/1901.05331.pdf)
+- [ ] [Correct Normalization Matters：Understanding the Effect of Normalization On Deep Neural Network Models For CTR Prediction]()
 
 ## [] 联邦学习
 - [ ] [TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN](https://arxiv.org/pdf/1902.01046.pdf?spm=ata.13261165.0.0.5dee2109BK27WQ&file=1902.01046.pdf)
