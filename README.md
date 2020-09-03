@@ -58,8 +58,6 @@ personal blog: http://litowang.top/
 - [ ] [Memory-efficient Embedding for Recommendations](https://arxiv.org/pdf/2006.14827.pdf)
 - [ ] [DNN2LR: Interpretation-inspired Feature Crossing for Real-world Tabular Data](https://arxiv.org/pdf/2008.09775.pdf)
 - [ ] [TFNet: Multi-Semantic Feature Interaction for CTR Prediction](https://arxiv.org/pdf/2006.15939.pdf)
-- [ ] [Fast Stochastic AUC Maximization with O(1/n)-Convergence Rate](http://proceedings.mlr.press/v80/liu18g/liu18g.pdf)
-- [ ] [Stochastic Proximal Algorithms for AUC Maximization](http://proceedings.mlr.press/v80/natole18a/natole18a.pdf)
 
 
 ### 小样本/多尺度Embedding
@@ -147,6 +145,8 @@ personal blog: http://litowang.top/
 - [ ] [Gradient descent with momentum — to accelerate or to super-accelerate?](https://arxiv.org/pdf/2001.06472.pdf)
 - [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf) (理解NN LOSS)
 - [ ] [Adaptive Serverless Learning](https://arxiv.org/pdf/2008.10422.pdf) (去中心化sgd训练，也许有一些思路)
+- [ ] [Fast Stochastic AUC Maximization with O(1/n)-Convergence Rate](http://proceedings.mlr.press/v80/liu18g/liu18g.pdf)
+- [ ] [Stochastic Proximal Algorithms for AUC Maximization](http://proceedings.mlr.press/v80/natole18a/natole18a.pdf)
 
 
 ## [三] 贝叶斯推断（todo）
