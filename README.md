@@ -176,9 +176,6 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Squeeze-and-excitation networks](https://arxiv.org/pdf/1709.01507.pdf) (SENET)
 - [ ] [SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf) (SA+CA Attention)
 
-
-## [六] 文本（todo）
-
 ## [七] RTB（todo）
 - [ ] [Online Second Price Auction with Semi-bandit Feedback Under the Non-Stationary Setting](https://arxiv.org/pdf/1911.05949.pdf)
 
@@ -196,3 +193,5 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
 - [ ] [Latent Cross: Making Use of Context in Recurrent Recommender Systems](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46488.pdf)
 
+## [] 召回
+- [ ] [MIND召回]
