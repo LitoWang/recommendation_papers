@@ -58,6 +58,7 @@ personal blog: http://litowang.top/
 - [ ] [Memory-efficient Embedding for Recommendations](https://arxiv.org/pdf/2006.14827.pdf)
 - [ ] [DNN2LR: Interpretation-inspired Feature Crossing for Real-world Tabular Data](https://arxiv.org/pdf/2008.09775.pdf)
 - [ ] [TFNet: Multi-Semantic Feature Interaction for CTR Prediction](https://arxiv.org/pdf/2006.15939.pdf)
+- [ ] [DCN-M: Improved Deep & Cross Network for Feature Cross Learning in Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)
 
 
 ### 小样本/多尺度Embedding
