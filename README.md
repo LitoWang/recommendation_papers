@@ -50,7 +50,6 @@ personal blog: http://litowang.top/
 - [ ] [Recommending What Video to Watch Next: A Multitask Ranking System](https://daiwk.github.io/assets/youtube-multitask.pdf)
 - [ ] [Model Ensemble for Click Prediction in Bing Search Ads](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/main-1.pdf)
 - [ ] [Field-aware Probabilistic Embedding Neural Network for CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3240323.3240396)
-- [ ] [Dual-attentional Factorization-Machines based Neural Network for User Response Prediction](https://dl.acm.org/doi/pdf/10.1145/3366424.3382680?casa_token=ejQgYZSwl5IAAAAA:8XJq3mAaZ9lOAudSnsxPwmVNLE-C6gEhGJwhagcIBh96ASkhhpLdOMCjdkvtX-YcX8mxSt-_QD1JEBA)
 - [ ] [FedCTR: Federated Native Ad CTR Prediction with Multi-Platform User Behavior Data](https://arxiv.org/pdf/2007.12135.pdf)
 - [ ] [AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://arxiv.org/pdf/2003.11235.pdf)
 - [ ] [DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving](https://arxiv.org/pdf/2002.06987.pdf)
