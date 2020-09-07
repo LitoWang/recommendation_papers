@@ -88,6 +88,8 @@ personal blog: http://litowang.top/
 - [ ] [Efficient Continuous Pareto Exploration in Multi-Task Learning](http://cpmtl.csail.mit.edu/)
 - [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf)
 - [ ] [Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
+- [ ] [An Overview of Multi-Task Learning in Deep Neural Network](https://arxiv.org/pdf/1706.05098.pdf)
+
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
