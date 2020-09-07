@@ -82,6 +82,7 @@ personal blog: http://litowang.top/
 - [ ] [Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising](https://arxiv.org/pdf/1907.10235.pdf)
 - [ ] [Deep Bayesian Multi-Target Learning for Recommender Systems](https://arxiv.org/pdf/1902.09154.pdf)
 - [ ] [A Causal Perspective to Unbiased Conversion Rate Estimation on Data Missing Not at Random](https://arxiv.org/pdf/1910.09337.pdf)
+- [ ] [MULTI-LOSS WEIGHTING WITH COEFFICIENT OF VARIATIONS](https://arxiv.org/pdf/2009.01717.pdf)
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
