@@ -147,8 +147,13 @@ personal blog: http://litowang.top/
 - [ ] [Gradient descent with momentum — to accelerate or to super-accelerate?](https://arxiv.org/pdf/2001.06472.pdf)
 - [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf) (理解NN LOSS)
 - [ ] [Adaptive Serverless Learning](https://arxiv.org/pdf/2008.10422.pdf) (去中心化sgd训练，也许有一些思路)
+
+### auc maximization
 - [ ] [Fast Stochastic AUC Maximization with O(1/n)-Convergence Rate](http://proceedings.mlr.press/v80/liu18g/liu18g.pdf)
 - [ ] [Stochastic Proximal Algorithms for AUC Maximization](http://proceedings.mlr.press/v80/natole18a/natole18a.pdf)
+- [ ] [Communication-Efficient Distributed Stochastic AUC Maximization with Deep Neural Networks](https://arxiv.org/pdf/2005.02426.pdf)
+- [ ] [Online AUC maximization](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=3351&context=sis_research)
+- [ ] [FAST OPTIMIZATION ALGORITHMS FOR AUC MAXIMIZATION](https://www.albany.edu/~mn572395/files/Fast_Optimization_Algorithms.pdf)
 
 
 ## [三] 贝叶斯推断（todo）
