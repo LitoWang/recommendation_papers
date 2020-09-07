@@ -83,6 +83,12 @@ personal blog: http://litowang.top/
 - [ ] [Deep Bayesian Multi-Target Learning for Recommender Systems](https://arxiv.org/pdf/1902.09154.pdf)
 - [ ] [A Causal Perspective to Unbiased Conversion Rate Estimation on Data Missing Not at Random](https://arxiv.org/pdf/1910.09337.pdf)
 - [ ] [MULTI-LOSS WEIGHTING WITH COEFFICIENT OF VARIATIONS](https://arxiv.org/pdf/2009.01717.pdf)
+- [ ] [Multi-Task Learning as Multi-Objective Optimization](http://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization.pdf)
+- [ ] [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](https://arxiv.org/pdf/1711.02257v4.pdf)
+- [ ] [Efficient Continuous Pareto Exploration in Multi-Task Learning](http://cpmtl.csail.mit.edu/)
+- [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf)
+
+
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
