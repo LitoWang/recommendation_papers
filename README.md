@@ -59,7 +59,7 @@ personal blog: http://litowang.top/
 - [ ] [DNN2LR: Interpretation-inspired Feature Crossing for Real-world Tabular Data](https://arxiv.org/pdf/2008.09775.pdf)
 - [ ] [TFNet: Multi-Semantic Feature Interaction for CTR Prediction](https://arxiv.org/pdf/2006.15939.pdf)
 - [ ] [DCN-M: Improved Deep & Cross Network for Feature Cross Learning in Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf)
-
+- [ ] [LT4REC:A Lottery Ticket Hypothesis Based Multi-task Practice for Video Recommendation System](https://arxiv.org/pdf/2008.09872.pdf)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
