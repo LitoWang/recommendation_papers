@@ -62,6 +62,7 @@ personal blog: http://litowang.top/
 - [ ] [DS-FACTO: Doubly Separable Factorization Machines](https://arxiv.org/pdf/2004.13940.pdf)
 - [ ] [DEEP RELATIONAL FACTORIZATION MACHINES](https://openreview.net/pdf?id=HJgySxSKvB)
 
+
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
 - [ ] [Neural Input Search for Large Scale Recommendation Models](https://arxiv.org/pdf/1907.04471.pdf)
@@ -90,7 +91,8 @@ personal blog: http://litowang.top/
 - [ ] [Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
 - [ ] [An Overview of Multi-Task Learning in Deep Neural Network](https://arxiv.org/pdf/1706.05098.pdf)
 - [ ] [A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998)
-
+- [ ] [Learning Task Grouping and Overlap in Multi-Task Learning](https://arxiv.org/pdf/1206.6417.pdf)
+- [ ] []
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
@@ -204,6 +206,7 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [From Federated Learning to Fog Learning: Towards Large-Scale Distributed Machine Learning in Heterogeneous Wireless Networks](https://arxiv.org/pdf/2006.03594.pdf)
 - [ ] [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a/bagdasaryan20a.pdf)
 - [ ] [FedDistill: Making Bayesian Model Ensemble Applicable to Federated Learning](https://arxiv.org/pdf/2009.01974.pdf)
+- [ ] [Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9174890)
 
 ## [] 内容推荐
 - [ ] [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
