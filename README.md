@@ -69,7 +69,7 @@ personal blog: http://litowang.top/
 - [ ] [A Meta-Learning Perspective on Cold-Start Recommendations for Items](https://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items.pdf)
 - [ ] [Automated Embedding Size Search in Deep Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3397271.3401436?casa_token=1ttZKqYUqLoAAAAA:O4R0qB4aUVc7286gF8LmLVZlSYrYGWm4yoMqWMDhWjJ2cVRVKI5Lz1L2CQc5rcHVi5vDY3zLqkB_vSk)
 - [ ] [GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401425?casa_token=XIzeBAFeEr0AAAAA:wnrsLjZsiyiy8jftmMxkxd1A7l2SBzDm6SOMGFO8XAGCHi4b9GoQQZ4bsnTupA_kqIDvFbxM7jg0IZg)
-
+- [ ] [GateNet:Gating-Enhanced Deep Network for Click-Through Rate Prediction](https://arxiv.org/pdf/2007.03519.pdf)
 
 ### pLTV
 - [ ] [Ad Recommendation Systems for Life-Time Value Optimization](https://people.cs.umass.edu/~pthomas/papers/Theocharous2015b.pdf)
