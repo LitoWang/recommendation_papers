@@ -211,3 +211,8 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 
 ## [] 召回
 - [ ] [MIND召回]
+
+## [] 不确定性预估
+- [ ] [Simple and scalable predictive uncertainty estimation using deep ensembles]()
+- [ ] [Countdown Regression: Sharp and Calibrated Survival Predictions]()
+- [ ] [Probabilistic Forecasting with Spline Quantile Function RNNs]()
