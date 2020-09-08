@@ -89,6 +89,7 @@ personal blog: http://litowang.top/
 - [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf)
 - [ ] [Learning to Compare: Relation Network for Few-Shot Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
 - [ ] [An Overview of Multi-Task Learning in Deep Neural Network](https://arxiv.org/pdf/1706.05098.pdf)
+- [ ] [A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998)
 
 
 ### 延迟反馈
