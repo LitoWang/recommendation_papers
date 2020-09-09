@@ -102,7 +102,6 @@ personal blog: http://litowang.top/
 - [ ] * [Dual Learning Algorithm for Delayed Feedback in Display Advertising](https://arxiv.org/pdf/1910.01847.pdf)
 - [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://arxiv.org/pdf/2002.02068.pdf)
 - [ ] [An Attention-based Model for CVR with Delayed Feedback via Post-Click Calibration]()
-- [ ] [Dual Learning Algorithm for Delayed Conversions](https://dl.acm.org/doi/pdf/10.1145/3397271.3401282?casa_token=JJC1locTRCsAAAAA:pvRuoK87k64zDcWvhh12qf-c18QcTCV5Nplo0tgWvC9E4EW2Uln3PuPhUX-_hwvAOWRaz85WI_m9ODY)
 - [ ] [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002?casa_token=oZyWoqn1hGcAAAAA:azIAFhjbDpYic2S-zrRP3R46-D93Wwp5JuZL-r_tty8VHCcNNOc13MPLS4bLEJS4qqN3Kl9pwI1tzOU)
 
 
