@@ -92,7 +92,6 @@ personal blog: http://litowang.top/
 - [ ] [An Overview of Multi-Task Learning in Deep Neural Network](https://arxiv.org/pdf/1706.05098.pdf)
 - [ ] [A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998)
 - [ ] [Learning Task Grouping and Overlap in Multi-Task Learning](https://arxiv.org/pdf/1206.6417.pdf)
-- [ ] []
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
@@ -103,6 +102,9 @@ personal blog: http://litowang.top/
 - [ ] * [Dual Learning Algorithm for Delayed Feedback in Display Advertising](https://arxiv.org/pdf/1910.01847.pdf)
 - [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://arxiv.org/pdf/2002.02068.pdf)
 - [ ] [An Attention-based Model for CVR with Delayed Feedback via Post-Click Calibration]()
+- [ ] [A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback](https://dl.acm.org/doi/pdf/10.1145/3366423.3380032?casa_token=0iGy7MgEKCUAAAAA:ivs8IIrhqD9rPhQcM_fVKkHLrohd7TD0lft9vKmcRChHgS-3FJAgynA8qLrSzDURnlAb1Dc-SzshegQ)
+- [ ] [Dual Learning Algorithm for Delayed Conversions](https://dl.acm.org/doi/pdf/10.1145/3397271.3401282?casa_token=JJC1locTRCsAAAAA:pvRuoK87k64zDcWvhh12qf-c18QcTCV5Nplo0tgWvC9E4EW2Uln3PuPhUX-_hwvAOWRaz85WI_m9ODY)
+
 
 ## [二] 优化算法
 ### 综述
