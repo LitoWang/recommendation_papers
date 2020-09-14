@@ -61,7 +61,7 @@ personal blog: http://litowang.top/
 - [ ] [LT4REC:A Lottery Ticket Hypothesis Based Multi-task Practice for Video Recommendation System](https://arxiv.org/pdf/2008.09872.pdf)
 - [ ] [DS-FACTO: Doubly Separable Factorization Machines](https://arxiv.org/pdf/2004.13940.pdf)
 - [ ] [DEEP RELATIONAL FACTORIZATION MACHINES](https://openreview.net/pdf?id=HJgySxSKvB)
-
+- [ ] [xDeepInt: a hybrid architecture for modeling the vector-wise and bit-wise feature interactions](https://dlp-kdd.github.io/assets/pdf/a2-yan.pdf)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
