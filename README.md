@@ -93,7 +93,8 @@ personal blog: http://litowang.top/
 - [ ] [An Overview of Multi-Task Learning in Deep Neural Network](https://arxiv.org/pdf/1706.05098.pdf)
 - [ ] [A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998)
 - [ ] [Learning Task Grouping and Overlap in Multi-Task Learning](https://arxiv.org/pdf/1206.6417.pdf)
-- [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf)
+- [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/2009.09931.pdf)
+- [ ] [Accelerating Matrix Factorization by Overparameterization](https://arxiv.org/pdf/1705.07115.pdf)
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
