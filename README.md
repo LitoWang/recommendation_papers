@@ -62,6 +62,7 @@ personal blog: http://litowang.top/
 - [ ] [DS-FACTO: Doubly Separable Factorization Machines](https://arxiv.org/pdf/2004.13940.pdf)
 - [ ] [DEEP RELATIONAL FACTORIZATION MACHINES](https://openreview.net/pdf?id=HJgySxSKvB)
 - [ ] [xDeepInt: a hybrid architecture for modeling the vector-wise and bit-wise feature interactions](https://dlp-kdd.github.io/assets/pdf/a2-yan.pdf)
+- [ ] [FIELD-EMBEDDED FACTORIZATION MACHINES FOR CLICK-THROUGH RATE PREDICTION](https://in.ncu.edu.tw/~hhchen/academic_works/chen20_overpara-mf.pdf)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
