@@ -63,6 +63,7 @@ personal blog: http://litowang.top/
 - [ ] [DEEP RELATIONAL FACTORIZATION MACHINES](https://openreview.net/pdf?id=HJgySxSKvB)
 - [ ] [xDeepInt: a hybrid architecture for modeling the vector-wise and bit-wise feature interactions](https://dlp-kdd.github.io/assets/pdf/a2-yan.pdf)
 - [ ] [FIELD-EMBEDDED FACTORIZATION MACHINES FOR CLICK-THROUGH RATE PREDICTION](https://in.ncu.edu.tw/~hhchen/academic_works/chen20_overpara-mf.pdf)
+- [ ] [Unbiased Ad Click Prediction for Position-aware Advertising Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241)
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
@@ -95,6 +96,8 @@ personal blog: http://litowang.top/
 - [ ] [Learning Task Grouping and Overlap in Multi-Task Learning](https://arxiv.org/pdf/1206.6417.pdf)
 - [ ] [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/2009.09931.pdf)
 - [ ] [Accelerating Matrix Factorization by Overparameterization](https://arxiv.org/pdf/1705.07115.pdf)
+- [ ] [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
+
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
@@ -200,6 +203,8 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 
 ## [七] RTB（todo）
 - [ ] [Online Second Price Auction with Semi-bandit Feedback Under the Non-Stationary Setting](https://arxiv.org/pdf/1911.05949.pdf)
+- [ ] [Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481)
+
 
 ## [八] 其他机器学习
 - [ ] [Optimization Problems for Machine Learning: A Survey](https://arxiv.org/pdf/1901.05331.pdf)
