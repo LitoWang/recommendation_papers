@@ -167,6 +167,7 @@ personal blog: http://litowang.top/
 - [ ] [Gradient descent with momentum — to accelerate or to super-accelerate?](https://arxiv.org/pdf/2001.06472.pdf)
 - [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf) (理解NN LOSS)
 - [ ] [Adaptive Serverless Learning](https://arxiv.org/pdf/2008.10422.pdf) (去中心化sgd训练，也许有一些思路)
+- [ ] [Error Compensated Distributed SGD Can Be Accelerated](https://arxiv.org/pdf/2010.00091.pdf)
 
 ### auc maximization
 - [ ] [Fast Stochastic AUC Maximization with O(1/n)-Convergence Rate](http://proceedings.mlr.press/v80/liu18g/liu18g.pdf)
