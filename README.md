@@ -73,6 +73,7 @@ personal blog: http://litowang.top/
 - [ ] [GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401425?casa_token=XIzeBAFeEr0AAAAA:wnrsLjZsiyiy8jftmMxkxd1A7l2SBzDm6SOMGFO8XAGCHi4b9GoQQZ4bsnTupA_kqIDvFbxM7jg0IZg)
 - [ ] [GateNet:Gating-Enhanced Deep Network for Click-Through Rate Prediction](https://arxiv.org/pdf/2007.03519.pdf)
 - [ ] [Res-embedding for Deep Learning Based Click-Through Rate Prediction Modeling](https://arxiv.org/pdf/1906.10304.pdf)
+- [ ] [Task-distribution-aware Meta-learning for Cold-start CTR Prediction](https://dl.acm.org/doi/pdf/10.1145/3394171.3413739)
 
 
 ### pLTV
