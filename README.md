@@ -232,3 +232,11 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Simple and scalable predictive uncertainty estimation using deep ensembles]()
 - [ ] [Countdown Regression: Sharp and Calibrated Survival Predictions]()
 - [ ] [Probabilistic Forecasting with Spline Quantile Function RNNs]()
+
+
+## [] ranking loss
+替代或者与ce loss融合，
+- [ ] [Improving Recommendation Quality in Google Drive]()
+- [ ] [Improving Deep Learning For Airbnb Search]
+- [ ] [Learning to Rank using Gradient Descent](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf)
+- [ ] [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
