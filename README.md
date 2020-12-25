@@ -265,3 +265,6 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Improving Deep Learning For Airbnb Search]
 - [ ] [Learning to Rank using Gradient Descent](https://icml.cc/2015/wp-content/uploads/2015/06/icml_ranking.pdf)
 - [ ] [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/pdf/1205.2618.pdf)
+
+## [] debias 
+- [ ] [Learning to rank with selection bias in personal search]()
