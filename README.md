@@ -169,6 +169,12 @@ personal blog: http://litowang.top/
 - [ ] [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf) (理解NN LOSS)
 - [ ] [Adaptive Serverless Learning](https://arxiv.org/pdf/2008.10422.pdf) (去中心化sgd训练，也许有一些思路)
 - [ ] [Error Compensated Distributed SGD Can Be Accelerated](https://arxiv.org/pdf/2010.00091.pdf)
+- [ ] [DECOUPLED WEIGHT DECAY REGULARIZATION](https://arxiv.org/pdf/1711.05101.pdf)(weight decay和L2正则的一些思考)
+- [ ] * [AdaBelief](https://arxiv.org/pdf/2010.07468.pdf)(https://github.com/juntang-zhuang/Adabelief-Optimizer)
+- [ ] [FIXING WEIGHT DECAY REGULARIZATION IN ADAM](https://arxiv.org/pdf/1711.05101v1.pdf)
+- [ ] []
+
+
 
 ### auc maximization
 - [ ] [Fast Stochastic AUC Maximization with O(1/n)-Convergence Rate](http://proceedings.mlr.press/v80/liu18g/liu18g.pdf)
@@ -210,9 +216,28 @@ Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.
 - [ ] [Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481)
 
 
-## [八] 其他机器学习
+## [八] 机器学习理论本质
 - [ ] [Optimization Problems for Machine Learning: A Survey](https://arxiv.org/pdf/1901.05331.pdf)
 - [ ] [Correct Normalization Matters：Understanding the Effect of Normalization On Deep Neural Network Models For CTR Prediction]()
+- [ ] [Why ResNet Works? Residuals Generalize](https://arxiv.org/pdf/1904.01367.pdf)(残差网络有效性分析)
+- [ ] [Visualizing the Loss Landscape of Neural Nets](http://cn.arxiv.org/pdf/1712.09913v3)(残差网络可视化https://github.com/tomgoldstein/loss-landscape)
+- [ ] [Hessian-based Analysis of Large Batch Training and Robustness to Adversaries]()
+- [ ] [On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima]()
+- [ ] [Entropy-SGD: Biasing Gradient Descent Into Wide Valleys]()
+- [ ] [Exploring Generalization in Deep Learning]()
+- [ ] [Interpreting neural network judgments via minimal, stable, and symbolic corrections]()
+- [ ] [Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks](初始学习率不能太小，batchsize不能太大)
+- [] [Convergence Analysis of Two-layer Neural Networks with ReLU Activation](https://arxiv.org/pdf/1705.09886.pdf)
+
+
+
+
+
+## [] 冷启动
+- [ ] [Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation](https://www.jiqizhixin.com/articles/2020-10-31-5)(tencent 迁移学习冷启动)
+
+
+
 
 ## [] 联邦学习
 - [ ] [TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN](https://arxiv.org/pdf/1902.01046.pdf?spm=ata.13261165.0.0.5dee2109BK27WQ&file=1902.01046.pdf)
