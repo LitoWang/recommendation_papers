@@ -64,6 +64,9 @@ personal blog: http://litowang.top/
 - [ ] [xDeepInt: a hybrid architecture for modeling the vector-wise and bit-wise feature interactions](https://dlp-kdd.github.io/assets/pdf/a2-yan.pdf)
 - [ ] [FIELD-EMBEDDED FACTORIZATION MACHINES FOR CLICK-THROUGH RATE PREDICTION](https://in.ncu.edu.tw/~hhchen/academic_works/chen20_overpara-mf.pdf)
 - [ ] [Unbiased Ad Click Prediction for Position-aware Advertising Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241)
+- [ ] [Compact and Computationally Efficient Representation of Deep Neural Networks](https://arxiv.org/pdf/1805.10692.pdf)
+- [ ] [Dot Product Matrix Compression for Machine Learning ](https://www.tdcommons.org/cgi/viewcontent.cgi?article=3891&context=dpubs_series)
+
 
 ### 小样本/多尺度Embedding
 - [ ] [RaFM: Rank-Aware Factorization Machines](http://proceedings.mlr.press/v97/chen19n/chen19n.pdf)
