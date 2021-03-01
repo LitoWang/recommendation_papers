@@ -104,6 +104,10 @@ personal blog: http://litowang.top/
 - [ ] [Accelerating Matrix Factorization by Overparameterization](https://arxiv.org/pdf/1705.07115.pdf)
 - [ ] [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)
 
+#### 多任务相关性
+- [ ] [A Principled Approach for Learning Task Similarity in Multitask Learning](https://arxiv.org/pdf/1903.09109.pdf)
+- [ ] 
+
 
 ### 延迟反馈
 - [ ] [Modeling Delayed Feedback in Display Advertising](http://olivier.chapelle.cc/pub/delayedConv.pdf)
