@@ -106,7 +106,10 @@ personal blog: http://litowang.top/
 
 #### 多任务相关性
 - [ ] [A Principled Approach for Learning Task Similarity in Multitask Learning](https://arxiv.org/pdf/1903.09109.pdf)
-- [ ] 
+- [ ] [Probabilistic Lipschitzness (PL) condition]()
+
+
+
 
 
 ### 延迟反馈
